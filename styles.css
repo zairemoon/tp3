@@ -1,9 +1,15 @@
 h1 {
-  font-family: Arial;
+  font-family: 'Playfair Display';
+  font-size: 60px;
+  color: #c9184a;
+  text-align: center;
 }
 
 h4 {
+  color: #ff0a54;
+  font-size: 25px;
   margin-bottom: 0;
+  font-family: 'Oswald', sans-serif;
 }
 
 ul,
@@ -15,4 +21,8 @@ ol {
   font-family: Arial;
   font-size: 9px;
   font-style: italic;
+}
+
+body {
+  background-color: #fadde1;
 }
