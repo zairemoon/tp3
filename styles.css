@@ -1,0 +1,18 @@
+h1 {
+  font-family: Arial;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  margin-top: 0;
+}
+
+.copyright {
+  font-family: Arial;
+  font-size: 9px;
+  font-style: italic;
+}
